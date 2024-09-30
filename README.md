@@ -31,3 +31,4 @@ npm start
 ```
 
 The app will be accessible at http://localhost:3000.# Paralllax
+# Paralllax
